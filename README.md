@@ -1,3 +1,3 @@
 # My First Step 
 Read for comprehension
-Some changes happened
+Its a Battery Management Project. There is a schematic and designed circuit board.
