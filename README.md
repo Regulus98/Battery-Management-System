@@ -1,4 +1,4 @@
-# My First Step 
+# Preview
 Read for comprehension.
 
 It's a Battery Management System Project. I've decided to start with passive type BMS. 
